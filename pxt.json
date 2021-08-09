@@ -1,12 +1,13 @@
 {
-    "name": "Bubble Dash",
+    "name": "Bubble Dash Demo",
     "description": "",
     "dependencies": {
         "device": "*",
         "controller": "*",
         "keyboard": "*",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
-        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
