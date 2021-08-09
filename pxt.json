@@ -1,5 +1,6 @@
 {
     "name": "Bubble Dash Demo",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*",
