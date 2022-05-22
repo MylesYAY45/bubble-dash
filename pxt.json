@@ -1,6 +1,6 @@
 {
     "name": "Bubble Dash",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -14,7 +14,7 @@
         "darts": "*",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "Bubble Dash Demo": "github:mylesfiles/bubble-dash#v0.1.0"
+        "Bubble Dash Demo": "github:mylesfiles/bubble-dash"
     },
     "files": [
         "main.blocks",
