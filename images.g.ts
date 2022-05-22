@@ -127,23 +127,23 @@ bb77bb77b77bb77bbb77b77bbbb77b7b77b7777bbb77bb77b77bb77bbb77b77bbbb77b7b77b7777b
 7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
 `;
             case "image2":
-            case "myImage":return img`
-. . . . . . . . . . . . . . . . 
-. . . . f f f f f f f . . . . . 
-. . . f f 1 1 f 1 1 f f . . . . 
-. . . f f 1 6 f 6 1 f f . . . . 
-. . . f f 1 6 f 6 1 f f . . . . 
-. . . f f f f f f f f f . . . . 
-. . . f f 1 f f f 1 f f . . . . 
-. . . f f f 1 1 1 f f f . . . . 
-. . . f f f f f f f f f . . . . 
-. . . . f f f f f f f . . . . . 
-. . . . . f f f f f . . . . . . 
-. . . . . f f f f f . . . . . . 
-. . . . . f f f f f . . . . . . 
-. . . . . f f f f f . . . . . . 
-. . . . . f . . . f . . . . . . 
-. . . . . f . . . f . . . . . . 
+            case "Player":return img`
+. . . e e e e . e . . e . . . . 
+. . e e e e e e e e e e e . . . 
+. e e e 1 1 d d d 1 1 e e . . . 
+. e e e 1 6 d d d 6 1 e . . . . 
+. . e d 1 6 d f d 6 1 e . . . . 
+. . . d d d d f d d d d . . . . 
+. . . d d f d d d f d d . . . . 
+. . . d d d f f f d d d . . . . 
+. . . d d d d d d d d d . . . . 
+. . . . 8 8 d d d 8 8 . . . . . 
+. . . . . 8 8 8 8 8 . . . . . . 
+. . . 8 8 8 8 8 8 8 8 8 . . . . 
+. . d . . 8 8 8 8 8 . . d . . . 
+. . d . . 8 8 8 8 8 . . d . . . 
+. . . . . d . . . d . . . . . . 
+. . . . f f . . . f f . . . . . 
 `;
         }
         return null;

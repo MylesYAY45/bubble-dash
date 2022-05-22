@@ -1,5 +1,5 @@
 {
-    "name": "Bubble Dash Demo",
+    "name": "Bubble Dash",
     "version": "0.1.0",
     "description": "",
     "dependencies": {
@@ -8,7 +8,13 @@
         "keyboard": "*",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
         "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
-        "animation": "*"
+        "animation": "*",
+        "storyboard": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.11.0",
+        "darts": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "Bubble Dash Demo": "github:mylesfiles/bubble-dash#v0.1.0"
     },
     "files": [
         "main.blocks",
@@ -26,7 +32,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.4.45",
+        "target": "1.8.23",
         "targetId": "arcade"
     },
     "supportedTargets": [

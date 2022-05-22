@@ -5,9 +5,9 @@
         "displayName": "cityscape"
     },
     "image2": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////DwAAAPD/////AAAA8BHx8f/////wYfYf////APD//x////8A8GH2H////wDwEfHx//////D/////AAAAAP///w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "data": "hwQQABAAAAAAAAAAAAAAAADuAAAAAAAA4O4OAAAA3QDu7t3dDYAAAO4R0d2NgADw7mHW342IiP3u3d393YiIAODd//3diIgA7t3d/d2IiADgYdbfjYiI/eAR0d2NgADw7u7e3Q2AAADgDgAAAADdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage"
+        "displayName": "Player"
     },
     "anim1": {
         "namespace": "myAnimations",
